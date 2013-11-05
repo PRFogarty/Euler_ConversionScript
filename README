@@ -1,1 +1,3 @@
-Test
+This script is currently designed to work with Libre Office's Unoconv command, allowing an easy transition from most Open Office/Libre Office file types to .csv.
+
+The intended input is either an Excel or Libre Office spreadsheet format from a Sakai class roster. From there, the script converts the .csv to a .lst type formatted for WebWork's import function for class rosters.
